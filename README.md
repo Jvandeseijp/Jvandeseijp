@@ -1,6 +1,11 @@
 
 ### Hey 👋🏽, I'm [Jarmo van de Seijp](https://t.me/dewebbutler)  
 
+Check out my Blockchain Certifications!:
+https://www.credential.net/profile/jarmovandeseijp62790/wallet
+Certified Blockchain Security Professional™
+Certified Solidity Developer™
+
 <br/>
 
 Hi, I'm Jarmo van de Seijp, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI, Smart Contract Auditing and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel, etc.

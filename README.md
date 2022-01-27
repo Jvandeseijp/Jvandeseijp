@@ -2,8 +2,8 @@
 ### Hey 👋🏽, I'm [Jarmo van de Seijp](https://t.me/dewebbutler)  
 
 Check out my Blockchain Certifications!:
-https://www.credential.net/profile/jarmovandeseijp62790/wallet
-Certified Blockchain Security Professional™
+https://www.credential.net/profile/jarmovandeseijp62790/wallet <br/>
+Certified Blockchain Security Professional™ <br/>
 Certified Solidity Developer™
 
 <br/>

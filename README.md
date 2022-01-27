@@ -3,6 +3,7 @@
 
 Check out my Blockchain Certifications!:
 https://www.credential.net/profile/jarmovandeseijp62790/wallet <br/>
+<br/>
 Certified Blockchain Security Professional™ <br/>
 Certified Solidity Developer™
 
